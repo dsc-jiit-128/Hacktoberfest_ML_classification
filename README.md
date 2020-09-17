@@ -2,7 +2,8 @@
 <img src="https://developers.google.com/community/dsc/images/dsc_lockup.png" height="100px">
 
 **SOURCE CODE ( GOOLGE COLAB )** 
- - *https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL*
+ - *https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL
+ - Provided as Hactoberfest_DSC_JIIT128_Classification.ipynb in the root directory.
 
 **TASK**
  - Create a Machine Learning Classification Model that can perform better on the Given Dataset.
