@@ -2,7 +2,7 @@
 <img src="./jiit128.png" height="100px">
 
 **SOURCE CODE ( GOOGLE COLAB )** 
- - `https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL`
+ - `*https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS?usp=sharing*`
  - `Provided as Hacktoberfest_DSC_JIIT128_Classification.ipynb in the root directory.`
 
 **TASK**
