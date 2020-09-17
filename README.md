@@ -1,8 +1,8 @@
 # Logistic Regression
-<img src="./jiit128.png" height="100px">
+<img src="./jiit128.png" >
 
 **SOURCE CODE ( GOOGLE COLAB )** 
- - `*https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS?usp=sharing*`
+ - https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL
  - `Provided as Hacktoberfest_DSC_JIIT128_Classification.ipynb in the root directory.`
 
 **TASK**
