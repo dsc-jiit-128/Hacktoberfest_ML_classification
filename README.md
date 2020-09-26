@@ -30,6 +30,6 @@
 
 [2]: http://www.facebook.com/dscjiitnoida/
 
-### Enjoy Machine Learning!!
+### Enjoy Machine Learning!
 ### HURRAYYY!!! You just got closer to completing your Hacktoberfest challenge.🌱
  
