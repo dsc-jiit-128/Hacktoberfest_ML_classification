@@ -1,5 +1,7 @@
-# Logistic Regression
+# HACKTOBERFEST 2020 is here! ✨
 <img src="./jiit128.png" >
+
+
 
 **SOURCE CODE ( GOOGLE COLAB )** 
  - *https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL*
@@ -12,7 +14,7 @@
 
  - `Fork the repository and clone.`
  - `Upload your notebook in .ipynb format inside Submissions folder.`
- -  The file name should be of the format: `<Your_Name>_<Your_Batch>    For example: ManasDalakoti_f2.ipynb`
+ -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: ManasDalakoti_JIIT128.ipynb`
  - `Then add a Pull Request.`
 
 **Important Notes**
@@ -29,4 +31,5 @@
 [2]: http://www.facebook.com/dscjiitnoida/
 
 ### Enjoy Machine Learning!!
+### HURRAYYY!!! You just got closer to completing your Hacktoberfest challenge.🌱
  
