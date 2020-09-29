@@ -1,6 +1,12 @@
 # HACKTOBERFEST 2020 is here! ✨
 <img src="./jiit128.png" >
 
+[![HitCount](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_classification.svg)](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_classification)
+[![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/Hacktoberfest_ML_classification?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/Hacktoberfest_ML_classification?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/network)
+[![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/Hacktoberfest_ML_classification)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dsc-jiit-128/class_bot/issues)
+
 # Iris Classification
 
 **SOURCE CODE ( GOOGLE COLAB )** 
